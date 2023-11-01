@@ -1,7 +1,7 @@
 
 ![FastAPI Logo](https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png)
 
-# FastAPI Wikepedia Application
+# FastAPI Wikipedia Application
 
 ## Prerequisites
 
@@ -14,7 +14,7 @@ Before you begin, ensure you have met the following requirements:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/fastapi-sample-app.git
+    git clone https://github.com/Monu25Verma/wikepedia_fastapi.git
     cd WIKIPEDIA_FASTAPI
     ```
 
@@ -71,7 +71,3 @@ The API documentation is automatically generated and provided by FastAPI. You ca
 
 - Monu Verma
 - GitHub: [Monu25Verma](https://github.com/Monu25Verma)
-
-## License
-
-This project is open source.
