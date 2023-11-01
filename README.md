@@ -49,15 +49,15 @@ The API documentation is automatically generated and provided by FastAPI. You ca
 
 ## Screenshots
 - Create Dataset using Wikipedia Data
-![Create Dataset](images\postinput1.png)
+![Create Dataset](postinput1.png)
 
 
 - Retrieve All Dataset from Database
-![Retrieve All Dataset](images\getall_data3.jpg)
+![Retrieve All Dataset](getall_data3.jpg)
 
 
 - Retrieve Single Desired Dataset from Database
-![Retrieve Single Dataset](images\get_singledata.png)
+![Retrieve Single Dataset](get_singledata.png)
 
 ## Assumptions
 
